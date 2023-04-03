@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 235, 204, 0.8);
+    color: brown;
+}
+.div-img {
+    text-align: center;
+}
+
+.chef {
+    width: 800px;
+    height: auto;
+}
+
+.ulist {
+    background-color: #ffd70080;
+    font-weight: bold;
+}
+
+.recipes {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: #7fffd475;
+}
+
+.fried-rice {
+    width: auto;
+    height: 400px;
+}
+
+p {
+    background-color: azure;
+}
+
+ul {
+    background-color: aliceblue;
+}
+
+ol {
+    background-color: beige;
+}
+
+.korean-beef {
+    width: auto;
+    height: 400px;
+}
+
+.salmon-tacos {
+    width: 600px;
+    height: auto;
+}
