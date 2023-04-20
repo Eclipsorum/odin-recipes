@@ -51,3 +51,9 @@ ol {
     width: 600px;
     height: auto;
 }
+
+.attribution {
+    text-align: center;
+    background-color:aliceblue;
+    color:darkblue;
+}
